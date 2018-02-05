@@ -1,0 +1,1 @@
+# django-goal_game
